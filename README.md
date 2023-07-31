@@ -1,4 +1,4 @@
-![324ea954-2aba-4033-bfdf-cbe6bb19e1e9](https://github.com/prajwal-006/Master-Slave-SPI-Communication/assets/120716113/b9e38be9-ff1e-478c-bf6a-063a5b3d7b51)# Master-Slave-SPI-Communication
+# Master-Slave-SPI-Communication
 Marvel EV&amp;RE Level 2 Task 2
 
 
